@@ -72,7 +72,8 @@ body{
 .cards{
     display: flex;
     justify-content: center;
-    gap:50px   
+    gap:50px;
+    margin-bottom: 110px;
 }
 .card{
     max-width: 160px;
@@ -94,4 +95,28 @@ body{
 }
 .card .text{
     margin-top: 2px;
+}
+
+/*section 3*/
+.cont3{
+    padding:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #e5e7eb;
+}
+.cont3 p{
+    width:770px;
+    font-size: 36px;
+    font-style: italic;
+    
+    color:#1f2937;
+}
+.quote{
+    display:block;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 900;
+    font-style: normal;
 }
