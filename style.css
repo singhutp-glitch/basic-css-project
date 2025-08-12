@@ -150,3 +150,12 @@ body{
     border:white solid;
 
 }
+
+/*footer*/
+
+.footer{
+    padding: 35px;
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+}
