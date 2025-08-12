@@ -49,12 +49,12 @@ body{
     max-width: 480px;
 }
 .left1 button{
-    padding:10px 35px;
+    padding:5px 35px;
     background-color: #3882f6;
     color:white;
     font-size: 20px;
     font-weight: 700;
-    border-radius: 15px;
+    border-radius: 10px;
     border:none
 }
 .cont1 img{
@@ -119,4 +119,34 @@ body{
     font-size: 20px;
     font-weight: 900;
     font-style: normal;
+}
+/*section 4*/
+.cont4{
+    padding:80px 160px;
+}
+.cont4 .content{
+    padding: 50px 100px;
+    background-color:#3882f6;
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    display:flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.cta span{
+    display: block;
+    font-size: medium;
+    color:  #e5e7eb;
+}
+.cont4 button{
+    padding:5px 35px;
+    background-color: #3882f6;
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    border:white solid;
+
 }
