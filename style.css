@@ -58,9 +58,10 @@ body{
     border:none
 }
 .cont1 img{
-    width:500px;
-    height:200px;
-    background-color:rgb(91, 91, 95);
+    
+    padding: 55px 150px;
+    margin:0;
+    background-color:rgb(132, 132, 139);
     text-align: center;
 } 
 .left1 div{
